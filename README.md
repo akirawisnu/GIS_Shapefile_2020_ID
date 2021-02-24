@@ -3,6 +3,15 @@ DAGRI Updated Shapefiles - 30 June 2020
 
 Updated GIS data (shapefiles) from Kemendagri DUKCAPIL Server (https://gis.dukcapil.kemendagri.go.id), they consist Province, District, Sub-District and Village level shapefile dataset. Feel free to use the file. 
 
+It consists information of:
+* number of districts (jumlah_kab)
+* number of sub-districts (jumlah_kec)
+* number of village (jumlah_kel)
+* population (jumlah_pen)
+* family number (jumlah_kk)
+* area (luas_wilay) in Km squared
+* Population Density (kepadatan_)
+
 Please use 7-zip Zstandard to un-compressed the file. This is the best compression format, and you all are missing out if not using it: 
 https://github.com/mcmilk/7-Zip-zstd/releases
 
