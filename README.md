@@ -5,6 +5,9 @@ DAGRI Updated Shapefiles - 30 June 2020
 
 Updated GIS data (shapefiles) from Kemendagri DUKCAPIL Server (https://gis.dukcapil.kemendagri.go.id), they consist Province, District, Sub-District and Village level shapefile dataset. Feel free to use the file. 
 
+Notes:
+* The Geo ID is using DAGRI code, therefore will need to use concordance between BPS and DAGRI code. You can find the concordance under this link: https://sig-dev.bps.go.id/webgis/pencariankodenama
+
 It consists information of:
 * number of districts (jumlah_kab)
 * number of sub-districts (jumlah_kec)
