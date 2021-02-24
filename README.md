@@ -21,3 +21,5 @@ Please use 7-zip Zstandard to un-compressed the file. This is the best compressi
 https://github.com/mcmilk/7-Zip-zstd/releases
 
 For Linux and OSX users, you could run 7z ZSTD from Wine / Crossover / PlayonLinux
+
+https://www.winehq.org/
