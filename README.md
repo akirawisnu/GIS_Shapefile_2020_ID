@@ -8,6 +8,7 @@ Updated GIS data (shapefiles) from Kemendagri DUKCAPIL Server (https://gis.dukca
 
 Notes:
 * The Geo ID is using DAGRI code, therefore will need to use concordance between BPS and DAGRI code. You can find the concordance under this link: https://sig-dev.bps.go.id/webgis/pencariankodenama
+* There are 83 thousands Village (Desa + Kelurahan) in this data, which is inline with BPS own data, Village Potential 2018 (PODES 2018) https://www.bps.go.id/pressrelease/2018/12/10/1536/hasil-pendataan-potensi-desa--podes--2018.html
 
 It consists information of:
 * number of districts (jumlah_kab)
