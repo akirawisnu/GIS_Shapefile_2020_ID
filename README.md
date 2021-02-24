@@ -1,8 +1,8 @@
 # GIS_Shapefile_2020_ID (Completed)
 DAGRI Updated Shapefiles - 30 June 2020
 
-![alt_text](https://github.com/akirawisnu/GIS_Shapefile_2020_ID/blob/main/WhatsApp%20Image%202021-02-24%20at%2018.39.45.jpeg)
-![alt_text]()
+![Tableau 2020 Test](https://github.com/akirawisnu/GIS_Shapefile_2020_ID/blob/main/WhatsApp%20Image%202021-02-24%20at%2018.39.45.jpeg)
+![QGIS 3.16 Test](https://github.com/akirawisnu/GIS_Shapefile_2020_ID/blob/main/Eu_qQJgUUAExlt8.jpg)
 
 Updated GIS data (shapefiles) from Kemendagri DUKCAPIL Server (https://gis.dukcapil.kemendagri.go.id), they consist Province, District, Sub-District and Village level shapefile dataset. Feel free to use the file. 
 
